@@ -4,7 +4,7 @@
 
 **🚀 AI Application Developer & Full-Stack Explorer**
 
-[English](#-about-me) | [中文](#-关于我)
+<a href="#english">English</a> | <a href="#中文">中文</a>
 
 [![GitHub followers](https://img.shields.io/github/followers/nice2209?style=social)](https://github.com/nice2209)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/nice2209)
@@ -14,6 +14,7 @@
 
 ---
 
+<a name="english"></a>
 ## 🧑‍💻 About Me
 
 I'm a **high school developer** passionate about building real products, not just studying theory.
@@ -73,11 +74,11 @@ I'm a **high school developer** passionate about building real products, not jus
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nice2209&show_icons=true&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=nice2209&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nice2209&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nice2209&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nice2209&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=nice2209&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -94,14 +95,7 @@ I'm a **high school developer** passionate about building real products, not jus
 
 ---
 
-<div align="center">
-
-# 你好，我是 nice2209 👋
-
-**🚀 AI 应用开发者 & 全栈探索者**
-
-</div>
-
+<a name="中文"></a>
 ## 🧑‍💻 关于我
 
 我是一名**高中生开发者**，热衷于构建真实的产品，而不仅仅是学习理论。
@@ -129,10 +123,13 @@ I'm a **high school developer** passionate about building real products, not jus
 
 ## 🌐 联系我
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- 🤗 Hugging Face: [huggingface.co/nice2209](https://huggingface.co/nice2209)
-- 🐦 Twitter: [@YOUR_TWITTER](https://twitter.com/YOUR_TWITTER)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/nice2209)
+
+</div>
 
 ---
 
