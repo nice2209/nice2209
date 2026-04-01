@@ -6,7 +6,7 @@
 
 <a href="#english">English</a> | <a href="#中文">中文</a>
 
-[![GitHub followers](https://img.shields.io/github/followers/nice2209?style=social)](https://github.com/nice2209)
+[![GitHub followers](https://img.shields.io/github/followers/nice22090?style=social)](https://github.com/nice2209)
 [![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-yellow)](https://huggingface.co/nice2209)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
 
